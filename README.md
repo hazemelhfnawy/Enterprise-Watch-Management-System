@@ -47,6 +47,16 @@ Open main.py and verify that the self.server variable in the DatabaseManager cla
 ```
 python main.py
 ```
+
+
+📸 Interface Preview
+1-
+<img width="1920" height="1030" alt="Screenshot 2026-05-17 011304" src="https://github.com/user-attachments/assets/d03b3432-f704-41a1-8aa5-0853dca7ba34" />
+
+2-
+<img width="1920" height="1030" alt="Screenshot 2026-05-17 011336" src="https://github.com/user-attachments/assets/001262df-ce9e-49b8-9e6b-05bb1ff17985" />
+
+
 👨‍💻 About The Developer
 Hazem Mohamed Hafez Elhefnawy
 Computer Engineering | Menoufia National University (Class of 2028)
